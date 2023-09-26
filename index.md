@@ -1,7 +1,3 @@
-Page content
-
-
-
 # Introduction to the ELIXIR Software Management Plan
 
 Intro c&p from Biohackrxiv paper
