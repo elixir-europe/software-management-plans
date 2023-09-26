@@ -85,7 +85,7 @@ All questions listed in this page above are the latest version, including the te
 
 - **Chair**: person with the ELIXIR Lead role (Eva)
 - **Co-chair**: another person
-- **Members**: -> to add our names and affiliations, not emails/contact details
+- **Members**: -> Manthos Pitoulias (Elixir Hub)
 
 ### Editorial Process
 
