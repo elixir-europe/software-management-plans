@@ -1,5 +1,5 @@
 title: ELIXIR Software Management Plan
 description: This is a website for the ELIXIR SMP
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
