@@ -100,20 +100,24 @@ After the first and third quarterly call of the year, all “to be integrated ch
 
 ## How to contribute
 
-Everyone is welcome to contribute to the discussion. You can participate in the following ways:
-Open an issue in the GitHub repo, following the rules and guidelines listed.
+Everyone is welcome to contribute to the discussion. You can participate in the following ways: 
 
-In order to contribute to a GitHub issue, we expect all contributors to make use of the provided tags, and ensure (as much as feasible) that there are no other conflicting discussions.
+- We use GitHub to submit and keep track of questions, requests, and suggestions regarding the ELIXIR SMP. If you are unfamiliar with GitHub issues, [here is an excellent guide](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart). When opening an issue in the GitHub repository, please follow these steps:
 
-Each tag corresponds to a different question.
+  1. Check that your point or request is not being addressed in a previous open issue.  
+  2. Open a new issue explaining your point or request. 
+  3. Use the appropriate label in your issue. We provide a set of labels that designate the different questions in the ELIXIR SMP. Label your issue with the related question. Add as many labels as needed if your issue relates to multiple questions. If your issue does not relate specifically to any question, do not add any label. Note that GitHub issues can be labeled either at the moment of its creation or at any moment afterward. 
+  4. Your issue will be reviewed during the upcoming maintainers’ quarterly meetings, depending on its priority (see “Editorial Process” section). 
+	
+	If your point has already been covered in an issue, we encourage you to participate in the discussion by adding your view in a comment on the issue. During the prioritization process, those issues with active discussions will be tackled first during the editorial process.  
 
-Follow the CoC (copy contributions guidelines from somewhere)
+- If you want to participate in the editorial process: 
+    - Join the dedicated mailing list of the SMP group 
+    - RO Crate community -> open an issue with a specific message that they want to join the community 
+    - Shared calendar with the invites? 
 
-Join the dedicated mailing list of the SMP group
+Follow the CoC (copy contributions guidelines from somewhere) 
 
-RO Crate community -> open an issue with a specific message that they want to join the community
-
-Shared calendar with the invites?
 
 
 # About
