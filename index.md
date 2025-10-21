@@ -6,14 +6,13 @@ There are a few flavours of SMPs already available in one form or another. The S
 
 A key downside of the aforementioned SMPs is that they tend to be rather complex, occasionally requiring deep technical knowledge of the software development process. In order to address these drawbacks, ELIXIR has designed a simplified version of an SMP, tailored for Life Science oriented projects but still general enough so as to be widely used. The primary goal of the ELIXIR SMP is to encourage wider adoption by Life Science researchers, and be as inclusive as possible to the various levels of technical expertise, while also having an explicit connection to the FAIR principles for Research Software. A common theme in Life Science researchers is the wide differences in background expertise, with the vast majority of researchers being self-taught research software developers. Having an SMP with a relatively low barrier in technical knowledge, while maintaining all the best practices expected in research software development, may both encourage wider adoption of these practices as well as increase the awareness of the multiple aspects involved in research software development.
 
-The overall process that led to the creation of the ELIXIR Software Management Plan can be found in the respective [BioHackrxiv article](https://biohackrxiv.org/k8znb/)
+The overall process that led to the creation of the ELIXIR Software Management Plan can be found in the [ELIXIR Software Management Plan for the Life Sciences BioHackrxiv preprint](https://biohackrxiv.org/k8znb/).
 
-> Alves, Renato, Dimitrios Bampalikis, Leyla Jael Castro, José M. Fernández, Jennifer Harrow, Mateusz Kuzak, Eva Martin, et al. 2021. “ELIXIR Software Management Plan for Life Sciences.” BioHackrXiv. October 25. doi:10.37044/osf.io/k8znb.
 
 
 ## Software Management Plan Expectations
 
-Focus on the lifecycle but NOT the sustainability aspects of research software
+The ELIXIR Software Management Plan focuses on the development of research software rather than what happens to it in the long term.
 
 
 ## The ELIXIR Software Management Plan community
@@ -22,30 +21,29 @@ Focus on the lifecycle but NOT the sustainability aspects of research software
 
 We identified two main stakeholders’ groups corresponding to users and adopters. In addition, we defined a group of distinguished personas that are out of the scope of the SMP’s stakeholders, specifically the (a) **software users** who might also be contributors (e.g. by submitting bugs), and (b) the **end-users** of the software, who have no involvement with the software development process.
 
-For each group of identified stakeholders we answered two questions: (i) how the stakeholders would use the SMP and (ii) at which stage of the software development the stakeholders would need the SMP most.
+For each group of identified stakeholders we answered two questions: 
+
+- (i) how the stakeholders would use the SMP.
+- (ii) at which stage of the software development the stakeholders would need the SMP most.
 
 ### Group 1: Users / Benefiter / Enforcers
 
 This group includes stakeholders that require access to the SMP for a given software, but are not responsible for filling it in.
 
-**Funders** e.g ELIXIR, Wellcome Trust
-**Policy Makers** e.g. European Commission (can use SMPs as a way of "enforcing" their recommendations and policies)
-**Service providers** (e.g. Compute Platform, PaaS, IaaS, SaaS use an SMP in order to ensure compatibility to the infrastructure offered)
-**Software manager** not necessarily contributing to the software - making sure principles are enforced
-**Publishers** e.g. [F1000](https://f1000research.com/) should use an SMP in order to ensure software "quality" / availability?)
+- **Funders** e.g ELIXIR, Wellcome Trust
+- **Policy Makers** e.g. European Commission (can use SMPs as a way of "enforcing" their recommendations and policies)
+- **Service providers** (e.g. Compute Platform, PaaS, IaaS, SaaS use an SMP in order to ensure compatibility to the infrastructure offered)
+- **Software manager** not necessarily contributing to the software - making sure principles are enforced
+- **Publishers** e.g. [F1000](https://f1000research.com/) should use an SMP in order to ensure software "quality" / availability?)
 
 
 ### Group 2: Adopters
 
 This group includes stakeholders that are primarily responsible for filling a SMP for a given software.
 
-**Developer/Researcher** the person writing the software needs to be aware of the basic principles to follow
-**PI of a group** can use the SMP to ensure compliance with best practices)
-**Organisation (Fundee)** Vested interest that in-house research output meets criteria and is sustainable - select appropriate SMP. This is the instance where an Institution is attempting to create a policy for internal use (ensure that any “badged” research software produced under it, aligns to the expectations of the selected SMP)
-
-For more information, please see the respective [BioHackrxiv article](https://biohackrxiv.org/k8znb/)
-
-> Alves, Renato, Dimitrios Bampalikis, Leyla Jael Castro, José M. Fernández, Jennifer Harrow, Mateusz Kuzak, Eva Martin, et al. 2021. “ELIXIR Software Management Plan for Life Sciences.” BioHackrXiv. October 25. doi:10.37044/osf.io/k8znb.
+- **Developer/Researcher** the person writing the software needs to be aware of the basic principles to follow
+- **PI of a group** can use the SMP to ensure compliance with best practices)
+- **Organisation (Fundee)** Vested interest that in-house research output meets criteria and is sustainable - select appropriate SMP. This is the instance where an Institution is attempting to create a policy for internal use (ensure that any “badged” research software produced under it, aligns to the expectations of the selected SMP)
 
 
 # What are the ELIXIR Software Management Plan Questions
