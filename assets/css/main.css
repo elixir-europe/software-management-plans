@@ -11865,7 +11865,7 @@ textarea.form-control-lg {
   font-family: "Lato", sans-serif !important;
 }
 
-#content a:is([href^=http], [href^="//"]):not([href^="https://elixir-europe.github.io/software-management-plans/"]):not([href^="mailto:"]):not([href^="tel:"]):not(:has(> span:only-child)):not(:has(> img)):not(.btn):not(.no-ext-icon)::after {
+#content a:is([href^=http], [href^="//"]):not([href^="https://elixir-europe.github.io"]):not([href^="mailto:"]):not([href^="tel:"]):not(:has(> span:only-child)):not(:has(> img)):not(.btn):not(.no-ext-icon)::after {
   content: "\f35d";
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
