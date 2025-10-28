@@ -1,17 +1,20 @@
 ---
-title: ELIXIR SMP Questions
-permalink: /questions/
+title: ELIXIR SMP sections overview
+permalink: /sections/
 ---
 
-## Questions
+> ELIXIR SMP version 1.0.0 (date 25/10/2021)
 
-ELIXIR SMP version 1.0.0 (date ??/??/??)
+The ELIXIR SMP consists in 21 questions organized in the following chapters:
 
--> add list of questions
+- Accessibility / License 
+- Documentation 
+- Testing 
+- Interoperability
+- Versioning 
+- Reproducibility 
+- Recognition 
 
-You can find these questions as ready-to-use templates in the links below:
-- MD version
-- Docx version
-- PDF version
-- Data Stewardship Wizard version
-- RDMO version
+You can find these questions in the original [ELIXIR SMP preprint](https://osf.io/preprints/biohackrxiv/k8znb_v1).
+
+You can use the [Data Stewardship Wizard](https://smw.dsw.elixir-europe.org) to fill in this questions through a user-friendly interface.
