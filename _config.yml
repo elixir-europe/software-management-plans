@@ -9,6 +9,7 @@ theme: elixir-toolkit-theme
 sass:
   load_paths:
     - _sass
+    - ./
 
 theme_variables:
   favicon: assets/img/ELIXIR_logo_negative_orange.png
@@ -25,7 +26,6 @@ github:
 plugins:
   - jekyll-include-cache
   - jekyll-target-blank
-  - jekyll-remote-theme
 
 
 markdown: kramdown

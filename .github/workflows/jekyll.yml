@@ -20,10 +20,15 @@ jobs:
           bundler-cache: true
 
       - name: Install dependencies
-        run: bundle install
+        run: |
+          gem install bundler
+          bundle install
 
       - name: Build Jekyll site
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
+          BUNDLE_PATH: vendor/bundle
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
