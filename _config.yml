@@ -1,5 +1,43 @@
 title: ELIXIR Software Management Plan
 description: This is a website for the ELIXIR SMP
+url: "https://elixir-europe.github.io/software-management-plans/"
+baseurl: ""
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-dinky
+theme: elixir-toolkit-theme
+
+sass:
+  load_paths:
+    - _sass
+
+theme_variables:
+  favicon: assets/img/ELIXIR_logo_negative_orange.png
+  topnav:
+    brand_logo: assets/img/ELIXIR_logo_negative_orange.png
+    theme: dark
+
+topnav_title: ELIXIR Software Management Plan
+
+github:
+  repository_url: https://github.com/elixir-europe/software-management-plans
+
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-target-blank
+  - jekyll-remote-theme
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      prev_next: false
+      # paginate: false
