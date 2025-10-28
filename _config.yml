@@ -1,7 +1,7 @@
 title: ELIXIR Software Management Plan
 description: This is a website for the ELIXIR SMP
-url: "https://elixir-europe.github.io/software-management-plans/"
-baseurl: ""
+url: "https://elixir-europe.github.io"
+baseurl: "/software-management-plans"
 show_downloads: false
 google_analytics:
 theme: elixir-toolkit-theme
