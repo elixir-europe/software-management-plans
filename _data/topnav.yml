@@ -1,0 +1,13 @@
+subitems:
+  - title: "home"
+    url: "/"
+  - title: "community"
+    url: "/community/"
+  - title: "questions"
+    url: "/questions/"
+  - title: "tools"
+    url: "/tools/"
+  - title: "governance"
+    url: "/governance/"
+  - title: "about"
+    url: "/about/"
