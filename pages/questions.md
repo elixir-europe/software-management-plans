@@ -1,6 +1,6 @@
 ---
 title: ELIXIR SMP sections overview
-permalink: /sections/
+permalink: /questions/
 ---
 
 > ELIXIR SMP version 1.0.0 (date 25/10/2021)

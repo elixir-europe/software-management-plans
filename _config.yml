@@ -21,7 +21,8 @@ topnav_title: ELIXIR Software Management Plan
 
 github:
   repository_url: https://github.com/elixir-europe/software-management-plans
-
+  source:
+    branch: main
 
 plugins:
   - jekyll-include-cache
