@@ -77,24 +77,18 @@
       "url": "/",
       "relUrl": "/"
     },"13": {
-      "doc": "ELIXIR SMP Questions",
-      "title": "Questions",
-      "content": "ELIXIR SMP version 1.0.0 (date ??/??/??) . -&gt; add list of questions . You can find these questions as ready-to-use templates in the links below: . MD version Docx version PDF version Data Stewardship Wizard version RDMO version . ",
-      "url": "/questions/#questions",
-      "relUrl": "/questions/#questions"
+      "doc": "ELIXIR SMP sections overview",
+      "title": "ELIXIR SMP sections overview",
+      "content": "ELIXIR SMP version 1.0.0 (date 25/10/2021) . The ELIXIR SMP consists in 21 questions organized in the following chapters: . | Accessibility / License | Documentation | Testing | Interoperability | Versioning | Reproducibility | Recognition | . You can find these questions in the original ELIXIR SMP preprint. You can use the Data Stewardship Wizard to fill in this questions through a user-friendly interface. ",
+      "url": "/sections/",
+      "relUrl": "/sections/"
     },"14": {
-      "doc": "ELIXIR SMP Questions",
-      "title": "ELIXIR SMP Questions",
-      "content": " ",
-      "url": "/questions/",
-      "relUrl": "/questions/"
-    },"15": {
       "doc": "Tools used with the ELIXIR SMP",
       "title": "Tools",
       "content": "The following tools have been tested and are ready to use: . ELIXIR Software Management Wizard: https://smw.ds-wizard.org/ . RDMO (link?) . ",
       "url": "/tools/#tools",
       "relUrl": "/tools/#tools"
-    },"16": {
+    },"15": {
       "doc": "Tools used with the ELIXIR SMP",
       "title": "Tools used with the ELIXIR SMP",
       "content": " ",
