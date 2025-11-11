@@ -1,6 +1,4 @@
 subitems:
-  - title: "home"
-    url: "/"
   - title: "community"
     url: "/community/"
   - title: "content"
