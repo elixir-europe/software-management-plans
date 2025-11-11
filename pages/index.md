@@ -38,9 +38,10 @@ There are a few flavours of SMPs already available in one form or another. The S
 
 
 <div style="text-align: center;">
-<img width="600"  style="display: block; margin-left: auto; margin-right: auto; margin-top: 3%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"  alt="ELIXIR SMP preprint" src="https://github.com/user-attachments/assets/09da8f33-c90e-433a-9ade-53067c635418" /> 
-<figcaption style="margin-top: 10px; color: grey">Screenshot of the ELIXIR SMP preprint</figcaption>
+<img width="600"  style="display: block; margin-left: auto; margin-right: auto; margin-top: 3%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"  alt="ELIXIR SMP preprint" src="https://github.com/user-attachments/assets/68a07d48-ce77-43a7-b187-3a91c95cde2c" /> 
+<figcaption style="margin-top: 10px; margin-bottom: 10px; color: grey">Screenshot of the ELIXIR SMP preprint</figcaption>
 </div>
+
 
 A key downside of the aforementioned SMPs is that they tend to be rather complex, occasionally requiring deep technical knowledge of the software development process. In order to address these drawbacks, ELIXIR has designed a simplified version of an SMP, tailored for Life Science oriented projects but still general enough so as to be widely used. The primary goal of the ELIXIR SMP is to encourage wider adoption by Life Science researchers, and be as inclusive as possible to the various levels of technical expertise, while also having an explicit connection to the FAIR principles for Research Software. A common theme in Life Science researchers is the wide differences in background expertise, with the vast majority of researchers being self-taught research software developers. Having an SMP with a relatively low barrier in technical knowledge, while maintaining all the best practices expected in research software development, may both encourage wider adoption of these practices as well as increase the awareness of the multiple aspects involved in research software development.
 
