@@ -25,6 +25,9 @@ Similar to a Data Management Plan, an SMP formalizes a set of structures and goa
 ### How to do a ELIXIR SMP?  
 You can create an ELIXIR SMP using the [Software Management Wizard](https://smw.dsw.elixir-europe.org/wizard/), where you will be guided to fill in the questions that compose the ELIXIR SMP. 
 
+<img width="600"  style="display: block; margin-left: auto; margin-right: auto; margin-top: 3%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"  alt="imagen" src="https://github.com/user-attachments/assets/eaec8cfa-fbc8-496c-965c-4f3f65d537ab" />
+
+<figcaption style="margin-top: 10px; color: grey">Screenshot of the Software Management Plan Wizard interface</figcaption>
 
 ### Introduction
 
