@@ -101,11 +101,11 @@
       "url": "/software-management-plans/",
       "relUrl": "/"
     },"17": {
-      "doc": "ELIXIR SMP sections overview",
-      "title": "ELIXIR SMP sections overview",
+      "doc": "ELIXIR SMP overview",
+      "title": "ELIXIR SMP overview",
       "content": "ELIXIR SMP version 1.0.0 (date 25/10/2021) . The ELIXIR SMP consists in 21 questions organized in the following chapters: . | Accessibility / License | Documentation | Testing | Interoperability | Versioning | Reproducibility | Recognition | . You can find these questions in the original ELIXIR SMP preprint. You can use the Data Stewardship Wizard to fill in this questions through a user-friendly interface. ",
-      "url": "/software-management-plans/questions/",
-      "relUrl": "/questions/"
+      "url": "/software-management-plans/content/",
+      "relUrl": "/content/"
     }
   }
   
