@@ -1,7 +1,29 @@
 ---
 title: Welcome to the ELIXIR SMP
 permalink: /
----
+--- 
+
+## What is a Software Management Plan? 
+
+A Software Management Plan (SMP) describes the management life cycle for software that is designed, implemented, and/or maintained within a particular project. The goal of an SMP is to ensure that the software remains accessible and reusable both in the short and long term.
+
+## Why Use a Software Management Plan?
+
+Similar to a Data Management Plan, an SMP formalizes a set of structures and goals to support various aspects of software development. These include: 
+
+- **Reproducibility and Reusability**: Ensuring your software can be reproduced and reused by others.
+- **Funding and Milestones**: Helping funding agencies understand your development process and track milestones. 
+- **Community Standards**: Raising awareness of existing standards in the software community. 
+- **Accessibility**: Making sure your software can be accessed and used by the broader community.
+
+
+## What is the ELIXIR SMP? 
+
+[ELIXIR](https://elixir-europe.org/) has developed a low-barrier SMP, specifically tailored for life science researchers, aligned to the FAIR Research Software principles. Starting from the [Four Recommendations for Open Source Software](https://f1000research.com/articles/6-876), the ELIXIR SMP was iteratively refined by surveying the practices of the community and incorporating the received feedback. The result was a collection of questions that capture certain attributes about a piece of research software. You can find out more about context, questions and structure of the ELIXIR SMP in the [content](https://elixir-europe.github.io/software-management-plans/content/) tab. 
+
+## How to do a ELIXIR SMP?  
+You can create an ELIXIR SMP using the [Software Management Wizard](https://smw.dsw.elixir-europe.org/wizard/), where you will be guided to fill in the questions that compose the ELIXIR SMP. 
+
 
 ## Introduction
 
