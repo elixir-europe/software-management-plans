@@ -14,9 +14,10 @@ All questions listed in this page above are the latest version, including the te
 
 ### Maintainers group
 
-- **Chair**: person with the ELIXIR Lead role (Eva)
-- **Co-chair**: another person
-- **Members**: -> Manthos Pitoulias (Elixir Hub)
+- **Chair**: Eva Martin
+- **Co-chair**: Mariia Steeghs-Turchina
+- **Members**: Renato Alves, Mihail Anton, Dimitrios Bampalikis, Leyla Jael Castro, José María Fernández González, Jennifer Harrow, Vojtěch Knaisl, Mateusz Kuzak, Eva Martin, Fotis E. Psomopoulos, Mariia Steeghs-Turchina, Marek Suchánek, Shoaib Sufi, Allegra Via. 
+
 
 ### Editorial Process
 
@@ -24,7 +25,7 @@ The maintainers group meets online on a quarterly basis, with the details (date,
 
 Before this call, all issues raised in the GitHub repository will be prioritised by the maintainers group with regards to impact and severity.
 
-During this call, all issues will be discussed in order of priority, and based on the discussion and consensus by all TC participants, they will be tagged as “to be integrated”, “further discussion necessary”, or closed if assessed by the group as not applicable/suitable/relevant/duplicated/etc <polite way of saying “not useful/relevant”>.
+During this call, all issues will be discussed in order of priority, and based on the discussion and consensus by all TC participants. They will be tagged as “to be integrated”, “further discussion necessary”, or closed if assessed by the group as not applicable/suitable/relevant/duplicated/etc.
 
 After the first and third quarterly call of the year, all “to be integrated changes” to the ELIXIR SMP questions will be added to the questions, in order to create a new release/version of the ELIXIR SMP.
 
@@ -42,11 +43,7 @@ Everyone is welcome to contribute to the discussion. You can participate in the 
 	
 	If your point has already been covered in an issue, we encourage you to participate in the discussion by adding your view in a comment on the issue. During the prioritization process, those issues with active discussions will be tackled first during the editorial process.  
 
-- If you want to participate in the editorial process: 
-    - Join the dedicated mailing list of the SMP group 
-    - RO Crate community -> open an issue with a specific message that they want to join the community 
-    - Shared calendar with the invites? 
+- If you want to participate in the editorial process open an issue with a message indicating that you want to join the community. 
 
-Follow the CoC (copy contributions guidelines from somewhere) 
 
 
